@@ -1,0 +1,5 @@
+package datastruc
+
+func BreadthFirstSearch() {
+
+}
