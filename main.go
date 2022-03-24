@@ -1,7 +1,7 @@
 package main
 
 import (
-	arrayproblems "github.com/mjk222/demo/algorithm/typical_programming_problems/array_problems"
+	datastruc "github.com/mjk222/demo/algorithm/data_struc"
 )
 
 func main() {
@@ -25,5 +25,8 @@ func main() {
 	// arrayproblems.RepeatNumberThree()
 	// result := arrayproblems.Find()
 	// fmt.Println("result is ", result)
-	arrayproblems.ReplaceBlank()
+
+	// algorithm.BinarySearch()
+	// arrayproblems.ReplaceBlank()
+	datastruc.ShowNode()
 }

@@ -1,0 +1,3 @@
+@baseUrl = "http://baidu.com"
+
+GET {{baseUrl}}/posts
