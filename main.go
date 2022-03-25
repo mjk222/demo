@@ -1,7 +1,7 @@
 package main
 
 import (
-	datastruc "github.com/mjk222/demo/algorithm/data_struc"
+	linkproblems "github.com/mjk222/demo/algorithm/typical_programming_problems/link_problems"
 )
 
 func main() {
@@ -28,5 +28,6 @@ func main() {
 
 	// algorithm.BinarySearch()
 	// arrayproblems.ReplaceBlank()
-	datastruc.ShowNode()
+	//datastruc.StackTest()
+	linkproblems.PrintListReversinglyTest()
 }
